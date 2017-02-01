@@ -1,0 +1,599 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"tr	text-replace"
+			],
+			[
+				"border-",
+				"border-collapse"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"unset",
+				"session_unset"
+			],
+			[
+				"background-o",
+				"background-color"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"form",
+				"formvec"
+			],
+			[
+				"format",
+				"formatoption1"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"hour",
+				"hour"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"month",
+				"month"
+			],
+			[
+				"n",
+				"nat_pri_fee"
+			],
+			[
+				"exa",
+				"exam_overall"
+			],
+			[
+				"assign3",
+				"assign3_overall"
+			],
+			[
+				"assign2",
+				"assign2_overall"
+			],
+			[
+				"assign1",
+				"assign1_overall"
+			],
+			[
+				"quiz_",
+				"quiz_overall"
+			],
+			[
+				"quiz",
+				"quiz_wt"
+			],
+			[
+				"ex",
+				"exam_result"
+			],
+			[
+				"assign2_",
+				"assign2_result"
+			],
+			[
+				"portfo",
+				"portfolio_info"
+			],
+			[
+				"info",
+				"info"
+			],
+			[
+				"port",
+				"portfolio_info"
+			],
+			[
+				"img",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/F/Dropbox/Dropbox/www/md_client/clientpage.php",
+			"settings":
+			{
+				"buffer_size": 2471,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sub",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"SUBLIME",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 183.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Dropbox/Dropbox/www/md_client/clientpage.php",
+		"/F/Dropbox/Dropbox/www/md_client/frontend/design/style.css",
+		"/C/Users/Luke/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/F/Dropbox/Dropbox/www/manandute/m.manandute/index.php",
+		"/F/Dropbox/Dropbox/www/manandute/calculator/VolumeCalculator.js",
+		"/F/Games/LootAlert 1.0.8/log.txt",
+		"/F/Games/Thirst/Data.xml",
+		"/F/Dropbox/Dropbox/www/manandute/calculator/volume_calculator.html",
+		"/F/Dropbox/Dropbox/www/manandute/calculator/details.php",
+		"/F/Dropbox/Dropbox/www/manandute/m.manandute/lib/content.php",
+		"/C/Program Files (x86)/Furniture Removal Volume Calculator/volume_calculator.html",
+		"/F/Dropbox/Dropbox/www/manandute/header.php",
+		"/F/Dropbox/Dropbox/www/manandute/original/m.manandute/lib/scraper.php",
+		"/F/Dropbox/Dropbox/www/manandute/original/m.manandute/page.php",
+		"/F/Dropbox/Dropbox/www/manandute/storage-calculator.php",
+		"/F/Dropbox/Dropbox/www/manandute/original/m.manandute/lib/content.php",
+		"/F/Dropbox/Dropbox/www/manandute/original/m.manandute/index.php",
+		"/F/Dropbox/Dropbox/www/manandute/original/lib/functions.php",
+		"/F/Dropbox/Dropbox/www/manandute/original/lib/globals.php",
+		"/F/Dropbox/Dropbox/www/manandute/original/lib/common.php",
+		"/F/Dropbox/Dropbox/www/manandute/original/lib/pager.php",
+		"/F/Dropbox/Dropbox/www/manandute/original/m.manandute/lib/globals.php",
+		"/F/Dropbox/Dropbox/www/manandute/original/m.manandute/lib/pager.php",
+		"/F/Dropbox/Dropbox/www/monteathlawyers/css/common_styles.css",
+		"/F/Dropbox/Dropbox/www/monteathlawyers/includes/header.php",
+		"/F/Dropbox/Dropbox/www/monteathlawyers/includes/left.php",
+		"/F/Dropbox/Dropbox/www/monteathlawyers/index.php",
+		"/F/Dropbox/Dropbox/www/monteathlawyers/includes/html_header.php",
+		"/F/Dropbox/Dropbox/www/partyfoodsonline/m/lib/config.php",
+		"/F/Dropbox/Dropbox/www/partyfoodsonline/m/index.php",
+		"/F/Dropbox/Dropbox/www/monteathlawyers/includes/footer.php",
+		"/F/Dropbox/Dropbox/www/monteathlawyers/includes/nav.php",
+		"/F/Dropbox/Dropbox/www/monteathlawyers/css/style.css",
+		"/F/Dropbox/Dropbox/www/monteathlawyers/includes/modules/front_right.php",
+		"/F/Dropbox/Dropbox/www/monteathlawyers/orginal/includes/content.php",
+		"/F/Dropbox/Dropbox/www/monteathlawyers/orginal/includes/nav.php",
+		"/F/Dropbox/Dropbox/www/partyfoodsonline/original/m/lib/config.php",
+		"/F/Dropbox/Dropbox/www/monteathlawyers/includes/configuration.php",
+		"/F/Dropbox/Dropbox/www/partyfoodsonline/original/m/index.php",
+		"/F/Downloads/Mother's Day/index.html",
+		"/F/Downloads/Mother's Day/frontend/script/gallery.js",
+		"/F/Downloads/Mother's Day/frontend/design/style.css",
+		"/F/Dropbox/Dropbox/www/partyfoodsonline/config.inc.php",
+		"/F/Dropbox/Dropbox/www/partyfoodsonline/index.php",
+		"/C/Users/Luke/Downloads/Blank.xml",
+		"/F/Downloads/Mother's Day/backend/includes/footer.php",
+		"/F/Dropbox/Dropbox/www/md_client/frontend/design/style.scss",
+		"/C/Users/Luke/Desktop/Proctosedyl",
+		"/F/Downloads/Mother's Day/backend/includes/header.php",
+		"/F/Downloads/Mother's Day/index.php",
+		"/F/Dropbox/Dropbox/MystDev_Management/Management/ABN/ABN.txt",
+		"/F/Dropbox/Dropbox/www/.htaccess.txt",
+		"/F/Dropbox/Dropbox/www/md_client/backend/lib/class_lib.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/adminpage.php",
+		"/F/Dropbox/Dropbox/www/md_client/backend/lib/config.inc.php",
+		"/F/Dropbox/Dropbox/www/md_client/backend/includes/nav_bar.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/lib/config.inc.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/includes/header.php",
+		"/F/Dropbox/Dropbox/www/md_client/backend/includes/footer.php",
+		"/F/Dropbox/Dropbox/www/mystdev/mystdev.css",
+		"/F/Dropbox/Dropbox/www/mystdev/webdev.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/gui/css/mystdev.css",
+		"/F/Dropbox/Dropbox/www/md_client/index.php",
+		"/F/Dropbox/Dropbox/www/md_client/frontend/design/company_name.css",
+		"/F/Dropbox/Dropbox/www/md_client/backend/includes/header.php",
+		"/F/Dropbox/Dropbox/www/md_client/frontend/design/style.sass",
+		"/C/Users/Luke/AppData/Roaming/Sublime Text 2/Packages/FTPSync/FTPSync.sublime-settings",
+		"/F/Dropbox/Dropbox/www/md_client/backend/process/login.php",
+		"/F/Dropbox/Dropbox/www/md_client/backend/process/logout.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/process/add_cust.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/process/edit_cust.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/process/update_job.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/process/new_job.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/index.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/includes/nav_bar.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/lib/class_lib.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/lib/upload_lib.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/lib/db_lib.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/mystdev_backend.xlsx",
+		"/F/wamp/www/manandute/manandute_sydney/header.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/root.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/config.inc.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/lib/func_lib.php",
+		"/F/wamp/www/manandute/manandute_sydney/sydney.php",
+		"/F/DB/TrinityLogs/mysteriouz#1563/FullStats - Barbarian.xml",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/process/login.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/backend/process/calculate.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/includes/company_name.css",
+		"/F/DB/Logs/1804 2013-04-02 20.04.txt",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/contact.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/gui/inc/header.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/gui/inc/footer.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/privacy-statement.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/design.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/development.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/hosting.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/about.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/disclaimer.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/index.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/our-work.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/inc/header.php",
+		"/F/Dropbox/Dropbox/MystDev Development Server/MystDev/Dev/inc/footer.php",
+		"/F/Downloads/Game Installations/6666 games in 1 Ultimate Classic Games Collection [Retro Legends]/read_me.txt",
+		"/F/CSC2402/quiz.cpp",
+		"/F/DB/Logs/8592 2013-03-31 11.10.txt",
+		"/F/CSC2402/dummies/pointers.cpp",
+		"/C/Users/Luke/AppData/Local/Temp/fz3temp-1/english.php",
+		"/F/DB/Logs/8596 2013-03-31 11.14.txt",
+		"/F/DB/Logs/3508 2013-03-30 10.48.txt",
+		"/F/Downloads/E-books/C++ For Dummies(6 ed)[Team Nanban][TPB]/VISIT ME ON FACEBOOK.txt",
+		"/F/Downloads/E-books/C++ For Dummies(6 ed)[Team Nanban][TPB]/README.txt",
+		"/F/CSC2402/Module_05/task-5.1.cpp",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/process/add_cust.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/lib/upload_lib.php",
+		"/F/Dropbox/Dropbox/www/md_admin_backend/process/new_job.php",
+		"/C/Users/Luke/Desktop/configuration.php",
+		"/C/Users/Luke/AppData/Local/Temp/Rar$DI00.404/README.txt",
+		"/F/Dropbox/Dropbox/www/mystdev/index.php",
+		"/F/Dropbox/Dropbox/www/contract/index.php",
+		"/C/Users/Luke/AppData/Local/Temp/fz3temp-1/invoicepdf.tpl",
+		"/C/Users/Luke/AppData/Local/Temp/fz3temp-1/viewinvoice.tpl",
+		"/F/wamp/www/md_admin_backend/adminpage.php",
+		"/F/Dropbox/Dropbox/www/contract/pdf/tutorial/tuto1.php",
+		"/C/Users/Luke/AppData/Local/Temp/Rar$DI00.570/ex.php",
+		"/C/Users/Luke/AppData/Local/Temp/Rar$DI06.424/exemple00.php",
+		"/C/Users/Luke/AppData/Local/Temp/Rar$DI05.849/_lisez_moi.txt",
+		"/C/Users/Luke/AppData/Local/Temp/Rar$DI00.633/_read_me.txt",
+		"/C/Users/Luke/AppData/Local/Temp/Rar$DI00.363/ex.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"immigr",
+			"Australia",
+			"immigration",
+			"COMPANY_PHONE",
+			"images",
+			"jpg",
+			"table",
+			"body",
+			"admin",
+			">';",
+			"ecommerce",
+			"cms",
+			"“",
+			"revisions",
+			"</br>",
+			"\"",
+			"</input>",
+			"fname",
+			"con_number",
+			"\n",
+			" var _gaq = _gaq || [];",
+			"var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-39177195-1']);\n  _gaq.push(['_trackPageview']);\n\n  (function() {\n    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();",
+			";\n",
+			"image4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/F/Dropbox/Dropbox/www/md_client/clientpage.php",
+					"settings":
+					{
+						"buffer_size": 2471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1627,
+								1627
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"c": "F:/Program Files (x86)/Cppcheck/cppcheck.exe",
+								"c++": "F:/Program Files (x86)/Cppcheck/cppcheck.exe",
+								"css": "F:/Program Files/nodejs/node.exe",
+								"javascript": "F:/Program Files/nodejs/node.exe",
+								"php": "F:/wamp/bin/php/php5.3.8/php.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 147.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true
+}
